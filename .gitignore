@@ -6,11 +6,6 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 
-# Environment
-.env
-.env.local
-.env.*.local
-
 # Logs
 logs
 *.log
